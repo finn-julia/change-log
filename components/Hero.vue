@@ -5,11 +5,7 @@
         <img loading="lazy" src="/logo.png" alt="Logspot" class="h-250 w-250" />
         
       </div>
-      <h2
-          class="text-xl font-extrabold tracking-tight text-teal-600 sm:text-5xl"
-        >
-           Change Log
-        </h2>
+      
       <p class="mt-4 text-base leading-7 text-slate-700">
         This changelog will represent all changes reflected within Jira Tickets. <br>
         Check out this weekly for announcments and recent changes. 
@@ -20,6 +16,12 @@
           >HHL</a
         >.
       </p>
+      <br> 
+      <h2
+          class="text-xl font-extrabold tracking-tight text-teal-600 sm:text-5xl"
+        >
+           Change Log
+        </h2>
     </div>
   </header>
 </template>
