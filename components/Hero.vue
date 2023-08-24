@@ -17,11 +17,7 @@
         >.
       </p>
       <br> 
-      <h2
-          class="text-xl font-extrabold tracking-tight text-teal-600 sm:text-5xl"
-        >
-           Change Log
-        </h2>
+      
     </div>
   </header>
 </template>
