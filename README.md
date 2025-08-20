@@ -2,6 +2,10 @@
 
 A web application built to track and display organizational changes, improving communication between the IT department and the rest of the company. This project was developed during my Data Structures and Algorithms internship at Help Hope Live and showcases full-stack development, user-centered design, and deployment skills.
 
+## Live Demo
+Check out the deployed Change Log website here: [View Live Site](https://hhl-staff-change-log.vercel.app/)
+
+
 ## 🚀 Features
 - Dedicated website for tracking and displaying change logs
 - Interactive interface optimized for fast load times and seamless content transitions
