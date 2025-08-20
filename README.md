@@ -1,76 +1,24 @@
-# Logspot
+# Change Log Website
 
-Logspot is a lightweight, free and open source template for your changelog made with Vue, Nuxt and Tailwindcss. 
+A web application built to track and display organizational changes, improving communication between the IT department and the rest of the company. This project was developed during my Data Structures and Algorithms internship at Help Hope Live and showcases full-stack development, user-centered design, and deployment skills.
 
-![image](https://user-images.githubusercontent.com/15716057/215351682-9f1032a5-7b71-4e5c-be22-951df57198d4.png)
+## 🚀 Features
+- Dedicated website for tracking and displaying change logs
+- Interactive interface optimized for fast load times and seamless content transitions
+- User feedback integrated through iterative testing to enhance usability
+- Bug tracking and project workflows managed using Jira in an Agile environment
 
-How it works?
+## 🛠️ Tech Stack
+- **Framework:** Nuxt.js for fast, statically generated pages
+- **Frontend & Prototyping:** HTML, CSS, JavaScript, Figma
+- **Deployment & Preview:** Vercel, Visual Studio Code
+- **Project Management:** Jira
+- **Algorithms & Data Structures:** Applied to optimize performance and handle complex challenges
 
-1. Each `.md` file in `/content/posts/` counts as one changelog post, logspot uses the [nuxt content module](https://content.nuxtjs.org/)
-
-### Features
-1. Markdown support
-2. Icons support using Iconify
-3. Code syntax highlighting using Shiki.js
-4. Frontmatter - dates, author supported
-5. Vue components inside markdown using Nuxt contents MDC format - More on this [here](https://content.nuxtjs.org/guide/writing/mdc)
-6. Icons support - `:icon{name="ph:user-circle-duotone"}` will show a user icon - find more icons at https://icones.js.org
-7. Alert component with icon, title and description.
-
-Format
-```
-::alert
----
-icon: fluent:error-circle-24-regular
-title: This is alert with default variant colors.
-description: This will pick up colors from your primary color set in the tailwind config file. You can use this to show some kind of message to your users.
----
-::
-```
-This above content will render a alert component, something like this
-<img width="719" alt="Screenshot2023-01-30 at 01 17 36@2x" src="https://user-images.githubusercontent.com/15716057/215352019-66f4fb5f-1c2b-4ea0-a596-671aa9a99b51.png">
-8. Widget page, Logspot also has a page specifically meant for widgets, here's an [example](https://logspot.vercel.app/test)
-
-
-https://user-images.githubusercontent.com/15716057/215352102-7796a751-a18f-499b-8302-700092b739f1.mp4
-
-
-
-## Setup Locally
-
-Make sure to install the dependencies:
-
-```bash
-# yarn
-yarn install
-
-# npm
-npm install
-
-# pnpm
-pnpm install --shamefully-hoist
-```
-
-## Development Server
-
-Start the development server on http://localhost:3000
-
-```bash
-npm run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-npm run build
-```
-
-Locally preview production build:
-
-```bash
-npm run preview
-```
-
-Checkout the [deployment documentation](https://v3.nuxtjs.org/guide/deploy/presets) for more information.
+## 📦 How to Run Locally
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/finn-julia/change-log.git
+2. Navigate into the project folder:
+    ```bash
+    cd change-log
