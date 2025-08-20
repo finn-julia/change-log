@@ -22,3 +22,20 @@ A web application built to track and display organizational changes, improving c
 2. Navigate into the project folder:
     ```bash
     cd change-log
+3. Install dependencies:
+    ```bash
+    npm install
+4. Start the app:
+    ```bash
+    npm run dev
+> **Note:** This project uses Nuxt for static site generation; ensure Node.js and npm are installed.
+
+## 📸 Screenshots
+
+## 🌟 What I Learned
+- Building a functional web application from discovery to deployment
+- Conducting user interviews to identify pain points and designing prototypes in Figma
+- Applying data structures and algorithms to optimize application performance
+- Using Nuxt.js for fast, statically generated web pages
+- Managing bug tracking and Agile workflows with Jira
+- Deploying projects with Vercel and maintaining code in Visual Studio Code
