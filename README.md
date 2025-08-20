@@ -19,10 +19,6 @@ Check out the deployed Change Log website here: [View Live Site](https://hhl-sta
 - **Project Management:** Jira
 - **Algorithms & Data Structures:** Applied to optimize performance and handle complex challenges
 
-## 📸 Screenshots
-Screenshot of Change Log for September showing upcoming beta testing and changes made to HHL pages
-![Change Log Homepage](images/screenshot.png)
-
 ## 🌟 What I Learned
 - Building a functional web application from discovery to deployment
 - Conducting user interviews to identify pain points and designing prototypes in Figma
@@ -30,6 +26,11 @@ Screenshot of Change Log for September showing upcoming beta testing and changes
 - Using Nuxt.js for fast, statically generated web pages
 - Managing bug tracking and Agile workflows with Jira
 - Deploying projects with Vercel and maintaining code in Visual Studio Code
+
+## 📸 Screenshots
+Screenshot of Change Log for September showing upcoming beta testing and changes made to HHL pages
+![Change Log Homepage](images/screenshot.png)
+
 
 ## 📦 How to Run Locally
 1. Clone the repository:
