@@ -31,6 +31,7 @@ A web application built to track and display organizational changes, improving c
 > **Note:** This project uses Nuxt for static site generation; ensure Node.js and npm are installed.
 
 ## 📸 Screenshots
+Screenshot of Change Log for September showing upcoming beta testing and changes made to HHL pages
 ![Change Log Homepage](images/screenshot.png)
 
 ## 🌟 What I Learned
