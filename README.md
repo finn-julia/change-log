@@ -31,6 +31,7 @@ A web application built to track and display organizational changes, improving c
 > **Note:** This project uses Nuxt for static site generation; ensure Node.js and npm are installed.
 
 ## 📸 Screenshots
+![Change Log Homepage](images/Screen Shot .png)
 
 ## 🌟 What I Learned
 - Building a functional web application from discovery to deployment
